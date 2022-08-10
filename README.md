@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıryor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıryor.
 
 ![kodluyoruz](kodluyoruzilkrepo.png/)
 
@@ -13,7 +13,7 @@ git clone https://github.com/onurabbasoglu26/kodluyoruzilkrepo
 
 # Usage
 
-Projeyi klondalıktan sonra Visial Studio Code programında açınız.
+Projeyi klonlalıktan sonra Visial Studio Code programında açınız.
 
 Linux için:
 
